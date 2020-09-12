@@ -1,0 +1,81 @@
+body{ background-color: #e6ad5e;}
+
+h1{ 
+	margin: 40px;
+	color: #000000; 
+	font-size: 100px; 
+	text-align: center;
+}
+
+#firstP{ 
+	color: #000000; 
+	font-size: 45px; 
+	text-align: center;
+}
+
+.picture{display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+.top_pic{
+	position: relative;
+	padding: 30px;
+	top: 120px;    
+    font-size: 70px;
+    color:white;
+    font-family: Impact;
+    text-shadow: 5px 5px #05156e;
+ }
+ 
+ #picturesite{
+	color: #000000;
+	text-align:center;
+ }
+ 
+#link{
+	position:relative;
+	color: black;
+	font-size: 30px;
+	left: 820px;
+		}
+
+ #link:hover{color: white;}
+
+#hr1{
+	color: black;
+	font-size: 50px;
+	text-align: left;	
+	right: 15px;
+	position:relative;
+}
+
+#contactinfo{
+	position:relative;
+	left: 30px;
+}
+
+#subheading{
+	margin:20px;
+	font-size: 30px;
+	position:relative;
+	left: 25px
+	
+}
+
+p{
+	margin: 10px;
+	position:relative;
+	left: 10px;
+}
+
+#link2{
+	font-size: 20px;
+	color: black;
+}
+
+#link2:hover{
+	color:white;
+}
+
